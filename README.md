@@ -5,7 +5,10 @@ IBM HR Analytics Attrition Prediction
 This project predicts employee attrition using machine learning (XGBoost) on the IBM HR Analytics dataset. It provides a Streamlit web app for interactive predictions and a Jupyter notebook for data exploration, feature engineering, and model training.
 
 Problem Statement
-Employee attrition (turnover) is a major concern for organizations. Predicting which employees are likely to leave helps HR departments take proactive measures, reduce costs, and improve retention. This project aims to build a robust, interpretable model to predict attrition based on employee data.
+
+Employee attrition is one of the most pressing challenges for modern organizations. High turnover disrupts operations, increases recruitment and training costs, and can negatively affect team morale and productivity. For HR teams, knowing which employees are at risk of leaving before it happens is crucial to take proactive measures—whether it’s targeted retention programs, career development plans, or workload adjustments.
+
+This project tackles attrition from a business perspective: by leveraging employee data, we aim to build a predictive model that identifies potential flight risks. The goal is not just prediction—it’s providing HR managers with actionable insights that save money, retain top talent, and maintain organizational stability. With a reliable attrition risk model, companies can transform workforce management from reactive to strategic, turning employee retention into a competitive advantage.
 
 Features
 - Data cleaning, feature engineering, and encoding
