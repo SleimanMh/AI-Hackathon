@@ -20,6 +20,8 @@ This project tackles attrition from a business perspective: by leveraging employ
 
 ## How to Run
 
+Please make sure to use the branch /feature where all the changes are there.
+
 1. Clone the repository
 ```sh
 git clone https://github.com/SleimanMh/AI-Hackathon/edit/main/README.md
